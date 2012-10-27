@@ -1,2 +1,3 @@
-haskell
+Haskell
 =======
+Playing around with random stuff
